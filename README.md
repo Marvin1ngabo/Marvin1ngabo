@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Didace!
 
 I'm a passionate Software Engineer with a love for  open-source, web development, data science.
-I'm currently building A Ai that will be checking if signatures are real or forged. and learning Java, Big data analytics.
+WE will...
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marvin1ngabo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
