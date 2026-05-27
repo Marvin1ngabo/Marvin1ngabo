@@ -3,9 +3,7 @@
 I'm a passionate Software Engineer with a love for  open-source, web development, data science.
 WE will...
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marvin1ngabo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin1ngabo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Marvin1ngabo&theme=dark)](https://git.io/streak-stats)
 
@@ -22,8 +20,6 @@ WE will...
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Marvin1ngabo&theme=dark)](https://github.com/ryo-sakamoto/github-profile-trophy)
 
 
 
