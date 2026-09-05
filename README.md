@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Didace!
+### Hi 👋 I'm Didace!
 
 I'm a passionate Software Engineer with a love for  open-source, web development, data science.
 WE will...
